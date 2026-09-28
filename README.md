@@ -21,7 +21,7 @@ The board is being developed as a compact, media-oriented Linux platform rather 
 
 ## Power-unit schematic
 
-![ROCKY RK3568 power-unit schematic](powersch.png)
+![ROCKY RK3568 power-unit schematic](docs/images/powersch.png)
 
 The power sheet is divided into the front-end input stage, three discrete pre-regulators, the RK809 PMIC and the filtered analogue supplies.
 
